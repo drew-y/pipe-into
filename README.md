@@ -19,3 +19,9 @@ const five = pipe(30)
     .into(v => v / 2)
     .val;
 ```
+
+## Building and Testing
+
+```bash
+npm test # If no error is thrown, the tests succeeded.
+```
