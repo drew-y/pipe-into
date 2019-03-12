@@ -9,6 +9,11 @@
     "prepublishOnly": "npm test",
     "test": "tsc && node dist/test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:drew-y/pipe-into.git"
+  },
+  "homepage": "https://github.com/drew-y/pipe-into",
   "keywords": [],
   "author": "Drew Youngwerth",
   "license": "ISC",
